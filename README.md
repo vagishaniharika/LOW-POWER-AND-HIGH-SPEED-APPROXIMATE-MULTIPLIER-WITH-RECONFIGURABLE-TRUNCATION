@@ -1,0 +1,2 @@
+# LOW-POWER-AND-HIGH-SPEED-APPROXIMATE-MULTIPLIER-WITH-RECONFIGURABLE-TRUNCATION
+Designed a low-power, high-speed approximate multiplier with reconfigurable truncation using Verilog/SystemVerilog. The design reduces power, area, and delay while maintaining acceptable accuracy by dynamically controlling approximation levels. Suitable for energy-efficient DSP, IoT, AI, and image-processing applications.
